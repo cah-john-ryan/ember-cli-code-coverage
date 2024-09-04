@@ -1,5 +1,7 @@
 # ember-cli-code-coverage
 
+This is a fork maintained at https://github.com/cah-john-ryan/ember-cli-code-coverage
+
 [![npm version](https://badge.fury.io/js/ember-cli-code-coverage.svg)](http://badge.fury.io/js/ember-cli-code-coverage)
 [![CI](https://github.com/kategengler/ember-cli-code-coverage/workflows/CI/badge.svg)](https://github.com/kategengler/ember-cli-code-coverage/actions?query=workflow%3ACI)
 
